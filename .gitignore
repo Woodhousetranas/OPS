@@ -77,3 +77,4 @@ temp_*
 
 # Output files (optional - you might want to track these)
 # output/
+.env
