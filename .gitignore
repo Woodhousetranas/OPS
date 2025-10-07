@@ -36,6 +36,11 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Frontend specific
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
 # Frontend build
 frontend/dist/
 frontend/build/
