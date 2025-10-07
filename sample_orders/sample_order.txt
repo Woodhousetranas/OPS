@@ -1,0 +1,8 @@
+# Sample Order - Plain Text Format
+# Format: Product Name, Quantity
+
+Mark V Red (2.0 mm), 8
+Rakza 9 Black (2.0 mm), 4
+Sweden Classic (Straight), 1
+5x Jet Impact Neo White (40)
+Hoodie Texas - Black (L): 3

@@ -1,0 +1,21 @@
+{
+  "customer": "TEST001",
+  "items": [
+    {
+      "product": "Anti Power Black (2.0 mm)",
+      "quantity": 10
+    },
+    {
+      "article_number": "S10021500",
+      "quantity": 5
+    },
+    {
+      "product": "Rakza X Black (2.0 mm)",
+      "quantity": 3
+    },
+    {
+      "product": "Sweden Extra (Flared)",
+      "quantity": 2
+    }
+  ]
+}
